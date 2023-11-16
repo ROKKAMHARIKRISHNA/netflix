@@ -1,0 +1,12 @@
+{
+  "projects": {
+    "default": "movieworld-e6e8e",
+    "build": "movieworld-e6e8e",
+    "Movieworld": "movieworld-e6e8e",
+    "movieworld": "movieworld-e6e8e",
+    "netflixGPT": "movieworld-e6e8e",
+    "MovieWorld": "movieworld-e6e8e"
+  },
+  "targets": {},
+  "etags": {}
+}
