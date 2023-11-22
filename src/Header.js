@@ -33,7 +33,7 @@ const Header = () => {
     return () => unsubscribe();
   }, []);
   return (
-    <div className="absolute z-10 flex justify-between w-full py-2 spx-8 bg-gradient-to-b from-black">
+    <div className="absolute z-10 flex justify-between w-full h-32 py-2 align-middle spx-8 bg-gradient-to-b from-black">
       <img className="w-44" src={LOGO} alt="logo" />
       {user && (
         <div className="flex p-2">
